@@ -39,3 +39,7 @@ utf8.decode(new Uint8Array([0x68, 0x6F, 0x67, 0x65]));
 utf8.decode(new Uint8Array([0xE3, 0x81, 0x93, 0x82, 0xE3, 0x81]);
 // Invalid UTF8 sequence causes an exception.
 ```
+
+License
+-------
+Copyright (c) 2014 H. Nagatagit Licensed under the MIT license.
