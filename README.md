@@ -42,4 +42,4 @@ utf8.decode(new Uint8Array([0xE3, 0x81, 0x93, 0x82, 0xE3, 0x81]);
 
 License
 -------
-Copyright (c) 2014 H. Nagatagit Licensed under the MIT license.
+Copyright (c) 2014 H. Nagata Licensed under the MIT license.
